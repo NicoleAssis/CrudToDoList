@@ -1,6 +1,7 @@
 {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "ns-py",
+   
     "python.formatting.provider" : "black"
+   
     
 }
